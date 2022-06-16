@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\bombi\jsp_data\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+479335008.index
+2042583563.index
+2790109544.index
+49940098.index
+754601418.index
+3632797517.index
+2119924823.index
