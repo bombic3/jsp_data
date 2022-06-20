@@ -4,13 +4,17 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<script type="text/javascript" src="param.js"></script>
 <title>서블릿</title>
 </head>
 <body>
-	<form method="get" action="ParamServlet">
+	<form method="get" action="ParamServlet" name="frm">
 		아이디 : 		<input type="text" name="id"><br>
+		
+		
 		나 &nbsp; 이:<input type="text" name="age"><br>
-		<input  type="submit" value="전송">
+		<input  type="submit" value="전송"
+				onclick="return check()">
 	</form>
 </body>
 </html>

@@ -26,10 +26,6 @@ public class MethodServlet extends HttpServlet {
 		out.print("<h1>get 방식으로 처리됨</h1>");
 		out.close();
 		
-		
-		
-		
-		
 	}
 
 	/**
